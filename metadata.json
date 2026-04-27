@@ -1,0 +1,9 @@
+{
+  "name": "Besta",
+  "description": "A social media platform for sharing photos, reels, and connecting with friends through real-time chat and live streaming.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
